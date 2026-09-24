@@ -1,0 +1,8 @@
+{
+  "name": "Remix ระบบทะเบียนและติดตามผู้ป่วยบำบัดยาเสพติด โรงพยาบาลกรงปินัง",
+  "description": "ระบบสารสนเทศสำหรับบุคลากรโรงพยาบาลกรงปินัง ใช้สำหรับทะเบียนผู้ป่วย การติดตามการบำบัด 7 ครั้งใน 12 เดือน การนัดหมาย SMI-V Risk Monitoring Retention Rate และ Remission Rate",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
